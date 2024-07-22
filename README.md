@@ -1,7 +1,7 @@
 # React + TypeScript + Vite Project Setup
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules. It includes comprehensive steps to set up both the frontend and backend, ensuring a smooth development experience.
-
+start date 19.07.24
 Table of Contents
 
 1. Setting Up Backend
@@ -15,4 +15,6 @@ Table of Contents
 9. Responsive Landing Page
 10. Hero Section
 11. Footer
-12. Auth0 Integration
+12. Auth0 setup (login success)
+13. Authenticated User Links (Name on Navbar)
+14. logout
