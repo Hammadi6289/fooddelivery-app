@@ -23,4 +23,10 @@ Table of Contents
     15.2. Create User API.👩‍🍳
     15.3. Testing on Postman✔
 16. Create User Request (Frontend)
-17. Auth0 Access Token.
+17. Auth0 Access Token. (Frontend)
+18. Validate Token (Backend)
+19. Update Profile API.👩‍🍳
+20. npm i npm i express-validator
+21. Update user Profile form. shadcn form component
+22. Update User Profile Request.
+23. Get User API. 👩‍🍳
