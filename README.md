@@ -30,3 +30,8 @@ Table of Contents
 21. Update user Profile form. shadcn form component
 22. Update User Profile Request.
 23. Get User API. 👩‍🍳
+24. Protected User Profile Route.
+25. Cloudinary Setup.
+26. Manage Restaurant.
+    26.1. Create Restaurant API 👩‍🍳
+    26.2. Testing on Postman✔
